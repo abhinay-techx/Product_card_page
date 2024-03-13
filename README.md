@@ -10,7 +10,8 @@ The Product Card Page features a responsive layout, ensuring a seamless viewing 
 
 ## Preview
 
-<img width="944" alt="Razorpay" src="https://github.com/abhinay-kumar47/Product_card_page/assets/101319759/8a7eaf64-83b9-4273-b03d-2c7d06cea6f2">
+![Screenshot (430)](https://github.com/abhinay-techx/Product_card_page/assets/101319759/00d3803e-59d9-45fe-8a0d-a85ee5af020e)
+
 
 ## **Technologies Used**
 
